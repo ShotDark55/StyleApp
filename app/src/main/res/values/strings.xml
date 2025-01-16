@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">StyleApplication</string>
+    <string name="title"><b>Multiple objects</b></string>
+    <string name="here_is_example">here is example</string>
+    <string name="warning">don\'t click here please</string>
+    <string name="exit"><b>exit</b></string>
+
 </resources>

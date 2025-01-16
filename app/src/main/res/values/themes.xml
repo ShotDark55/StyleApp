@@ -5,5 +5,17 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
+
+    <style name="Base.Theme.StyleApplication.TextView">
+
+
+        <item name="android:layout_width">@dimen/width_textView</item>
+        <item name="android:layout_height">@dimen/height_textView</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">casual</item>
+
+    </style>
+
     <style name="Theme.StyleApplication" parent="Base.Theme.StyleApplication" />
 </resources>
