@@ -4,5 +4,7 @@
     <string name="here_is_example">here is example</string>
     <string name="warning">don\'t click here please</string>
     <string name="exit"><b>exit</b></string>
+    <string name="note">this is a screenshot image</string>
+    <string name="next">next</string>
 
 </resources>
